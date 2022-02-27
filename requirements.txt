@@ -1,11 +1,7 @@
 absl-py==1.0.0
-argon2-cffi @ file:///Users/ktietz/demo/mc3/conda-bld/argon2-cffi_1629726290123/work
 astunparse==1.6.3
-async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-Bottleneck @ file:///Users/ktietz/demo/mc3/conda-bld/bottleneck_1629791503532/work
 cachetools==5.0.0
 certifi==2021.10.8
 cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-jgj0vmyy/cffi_1642701117808/work
@@ -39,8 +35,6 @@ itsdangerous==2.0.1
 jedi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-f1t6hma6/jedi_1644315882177/work
 Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
 joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
-jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
-jupyter @ file:///Users/ktietz/demo/mc3/conda-bld/jupyter_1629146554731/work
 jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
 jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
 jupyter-core @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/jupyter_core_1636622821915/work
@@ -51,10 +45,8 @@ Keras-Preprocessing==1.1.2
 kiwisolver @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/kiwisolver_1638569888412/work
 libclang==13.0.0
 Markdown==3.3.6
-MarkupSafe @ file:///Users/ktietz/demo/mc3/conda-bld/markupsafe_1629137411893/work
 matplotlib @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/matplotlib-suite_1638374039169/work
 matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
-mistune @ file:///Users/ktietz/demo/mc3/conda-bld/mistune_1629356075445/work
 munkres==1.1.4
 nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
 nbconvert @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-dl85zlms/nbconvert_1641309203294/work
@@ -114,15 +106,11 @@ termcolor==1.1.0
 terminado @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-n1puqh63/terminado_1644395131327/work
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 tf-estimator-nightly==2.8.0.dev2021122109
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-tornado @ file:///Users/ktietz/demo/mc3/conda-bld/tornado_1628698929452/work
 tqdm==4.62.3
 traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
 typing_extensions==4.1.1
 urllib3==1.26.8
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 Werkzeug==2.0.3
-widgetsnbextension @ file:///Users/ktietz/demo/mc3/conda-bld/widgetsnbextension_1629356330351/work
 wrapt==1.13.3
 zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
