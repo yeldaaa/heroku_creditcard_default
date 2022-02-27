@@ -53,7 +53,6 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow-datasets==4.5.2
 tensorflow-metadata==1.6.0
-tensorflow-metal==0.3.0
 termcolor==1.1.0
 tf-estimator-nightly==2.8.0.dev2021122109
 tqdm==4.62.3
