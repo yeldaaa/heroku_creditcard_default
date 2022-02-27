@@ -1,5 +1,4 @@
 absl-py==1.0.0
-appnope @ file:///Users/ktietz/demo/mc3/conda-bld/appnope_1629146036738/work
 argon2-cffi @ file:///Users/ktietz/demo/mc3/conda-bld/argon2-cffi_1629726290123/work
 astunparse==1.6.3
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
